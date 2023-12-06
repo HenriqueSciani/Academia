@@ -1,2 +1,2 @@
 # Academia
- tentando criar um site de academia
+estava tentando criar um site de academia
